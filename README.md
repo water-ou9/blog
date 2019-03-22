@@ -26,7 +26,7 @@ webpack的作用有处理依赖、模块化、打包、压缩混淆、图片转b
 
 - node 中文网址: <https://nodejs.org/zh-cn>
 </br>
-下载完之后安装，安装完之后在cmd面板输入 node -v 出现版本号说明安装成功，输入 npm -v 出现版本号说明自带的npm也安装成功。
+    下载完之后安装，安装完之后在cmd面板输入 node -v 出现版本号说明安装成功，输入 npm -v 出现版本号说明自带的npm也安装成功。
 - webpack
 - webpack-cli(webpack 4.0以上需要)
 - webpack-dev-server(静态资源的服务器) 主要是启动了一个使用express的Http服务器
